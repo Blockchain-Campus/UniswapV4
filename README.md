@@ -34,7 +34,7 @@ I'm actively working on these sections, so stay tuned for updates!
 
 - ⏳ **Uniswap Core Concepts** – In Progress
 - ✅ **Create Pool** – Completed
-- ✅ **Provide Liquidity** – Completed
+- ✅ **Provide Liquidity Overview** – Completed
 - ✅ **Modify Liquidity in Detail** – Completed
 - 📋 **Swap** – Coming Soon...
 
