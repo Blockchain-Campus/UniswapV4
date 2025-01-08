@@ -21,7 +21,7 @@ I'm actively working on these sections, so stay tuned for updates!
 - ✅ **Create Pool** – Completed
 - ✅ **Provide Liquidity** – Completed
 - ✅ **Modify Liquidity in Detail** – Completed
-- 📋 **Swap** – Coming Soon...
+- ⏳ **Swap** – In Progress
 
 #### **Hook Examples**
 
