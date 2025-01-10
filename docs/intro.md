@@ -1,5 +1,8 @@
 ---
 sidebar_position: 1
+title: Introduction to Uniswap V4
+description: A comprehensive guide to understanding and implementing Uniswap V4 features, including hooks, pool management, and liquidity provision.
+keywords: [uniswap v4, defi, liquidity pools, smart contracts, hooks]
 ---
 
 
